@@ -2,8 +2,9 @@
 Non-Sequential counter to count in four bit an eight digit (137ACF29) in order.
 IDE USED: Xilinx (now AMD) Vivado 2022.1
 Board Utilized: XC7A100TCSG324-1 (ARTIX-7 FPGA development board)
+Language: Verilog
 
-The cound is displayed in the first fice 7-segment digits at 1 Hz to see it change.
+The count is displayed in the first fice 7-segment digits at 1 Hz to see it change.
   1. Digits 3, 2, 1, 0 displays the 4-bit count using only 1 or 0 digits (binary)
   2. Digit 4 only displays the Hex Value
   3. All 5 7-segment displays shows at the same time
